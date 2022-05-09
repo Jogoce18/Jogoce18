@@ -5,6 +5,7 @@
 - 📖 I’m currently studying on Universidade Federal de Rio de Janeiro(UFRJ)**Master's degree in biomedical engineering**.
 - 🎓 Biomedical Engineer / Future Software Engineer
 - 📫 How to reach me **gomezjohana655@gmail.com**
+- ♂️ Pronouns: [ela/dela]
  ### 📊 My Github Stats
 <div align="center">
   <a href="https://github.com/Jogoce18">
