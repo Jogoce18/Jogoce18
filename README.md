@@ -14,7 +14,7 @@
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/johana gómez ceballos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johana gómez ceballos" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/jogoce18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johana gómez ceballos" height="30" width="40" /></a>
 <a href="https://fb.com/johana gomez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="johana gomez" height="30" width="40" /></a>
 <a href="https://instagram.com/joha.gomez18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joha.gomez18" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/gomezjohana655@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gomezjohana655@gmail.com" height="30" width="40" /></a>
