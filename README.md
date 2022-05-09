@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Johana</h1>
 <h3 align="center">A passionate Fullstack developer from Brazil-Colombia</h3>
-- 🎓 Biomedical Engineer / Future Software Engineer
+
 - 🌱 I’m currently learning **Full Stack Developer at Driven Education**
+
 - 📫 How to reach me **gomezjohana655@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
