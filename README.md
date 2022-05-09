@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Fullstack developer from Brazil-Colombia</h3>
 
 - 🌱 I’m currently learning **Full Stack Developer at Driven Education**
-
+- 📖 I’m currently studying on Universidade Federal de Rio de Janeiro(UFRJ)**Master's degree in biomedical engineering**.
+- 🎓 Biomedical Engineer / Future Software Engineer
 - 📫 How to reach me **gomezjohana655@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
