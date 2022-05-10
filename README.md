@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johana</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=B4&lines=👩‍💻++Hi+there!+I'm+a+developer!++;Welcome+to+my+Github+profile!">
+</p>
 <h3 align="center">A passionate Fullstack developer from Brazil-Colombia</h3>
 
 - 🌱 I’m currently learning **Full Stack Developer at Driven Education**
