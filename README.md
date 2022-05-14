@@ -9,8 +9,8 @@
 - 🎓 Biomedical Engineer / Future Software Engineer
 - 📫 How to reach me **gomezjohana655@gmail.com**
 - ♂️ Pronouns: [ela/dela]
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/80592317/168446648-15fe9f62-5548-4c9e-8118-5e96e6d9cc2c.gif" width="408" height="318" />
 
-https://user-images.githubusercontent.com/80592317/168446648-15fe9f62-5548-4c9e-8118-5e96e6d9cc2c.gif
  ### 📊 My Github Stats
 <div align="center">
   <a href="https://github.com/Jogoce18">
