@@ -1,3 +1,5 @@
+![50](https://user-images.githubusercontent.com/80592317/197415786-b07f2523-e52a-4483-9fce-8f7a2d343193.gif)
+
 <h1 align="center">Hi 👋, I'm Johana</h1>
 
 <p align="center">
