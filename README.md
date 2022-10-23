@@ -2,6 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Johana</h1>
 
+![50(1)](https://user-images.githubusercontent.com/80592317/197415985-9c952f1f-148d-4f1a-aaa2-afc7c8bd6c7e.gif)
+
+
 <p align="center">
   <img  src="https://readme-typing-svg.herokuapp.com?color=B4&lines=👩‍💻++Hi+there!+I'm+a+developer!++;Welcome+to+my+Github+profile!">
 </p>
