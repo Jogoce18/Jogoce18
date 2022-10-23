@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Johana</h1>
+<h1 align="center">Hi 👋🏼 , I'm Johana</h1>
 <div align="right">
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjogoce18&label=VISITANTES&labelColor=%23ff10a&countColor=%231aecde&style=for-the-badge)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fjogoce18)
@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <img  src="https://readme-typing-svg.herokuapp.com?color=B4&lines=👩‍💻Welcome+to+my+Github+profile!">
+  <img  src="https://readme-typing-svg.herokuapp.com?color=B4&lines=👩🏼‍💻Welcome+to+my+Github+profile!">
 </p>
 
 
