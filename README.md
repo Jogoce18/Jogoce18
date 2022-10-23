@@ -9,9 +9,7 @@
   <img  src="https://readme-typing-svg.herokuapp.com?color=B4&lines=👩‍💻++Hi+there!+I'm+a+developer!++;Welcome+to+my+Github+profile!">
 </p>
 
-<p align="center">
-<img   alt="GIF" src="https://user-images.githubusercontent.com/80592317/168446648-15fe9f62-5548-4c9e-8118-5e96e6d9cc2c.gif" width="500" height="320" />
-</p>
+
 <h3 align="center">A passionate Fullstack developer from Brazil-Colombia</h3>
 
 - 🌱 I’m currently learning **Full Stack Developer at Driven Education**
