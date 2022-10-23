@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <img  src="https://readme-typing-svg.herokuapp.com?color=B4&lines=👩‍💻++Hi+there!+I'm+a+developer!++;Welcome+to+my+Github+profile!">
+  <img  src="https://readme-typing-svg.herokuapp.com?color=B4&lines=👩‍💻Welcome+to+my+Github+profile!">
 </p>
 
 
