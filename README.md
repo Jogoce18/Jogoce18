@@ -7,7 +7,8 @@
 
 </div>
 
-![50(1)](https://user-images.githubusercontent.com/80592317/197415985-9c952f1f-148d-4f1a-aaa2-afc7c8bd6c7e.gif)
+![50(2)](https://user-images.githubusercontent.com/80592317/197418013-930d95b1-4ef0-43a6-9473-ab654ed604e3.gif)
+
 
 
 <p align="center">
