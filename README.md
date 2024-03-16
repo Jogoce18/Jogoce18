@@ -7,9 +7,6 @@
 
 </div>
 
-![50(2)](https://user-images.githubusercontent.com/80592317/197418013-930d95b1-4ef0-43a6-9473-ab654ed604e3.gif)
-
-
 
 <p align="center">
   <img  src="https://readme-typing-svg.herokuapp.com?color=B4&lines=👩🏼‍💻Welcome+to+my+Github+profile!">
